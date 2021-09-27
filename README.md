@@ -13,4 +13,17 @@
 
 ![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "高科大")
 
-![new fig](cat.jpg "cat")
+！[新圖] (cat.jpg"貓")
+
+
+this is a `test`.
+
+```
+this is a long quote.
+```
+
+- [x] this is checked
+- [.]undo
+- [ ]2nd job
+- [ ]3rd job
+- [ ]4th work

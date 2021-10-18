@@ -1,3 +1,5 @@
 ### 1.PERT/CPM 圖
-![PERT/CPM](hw.jpg)
+![PERT/CPM](https://github.com/WSY0118/2021_927/blob/main/hw1.png)
+
+### 2.甘特圖
 
